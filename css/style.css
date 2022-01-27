@@ -1,0 +1,7 @@
+.BigRed{
+  font-size: 20px;
+  color: red;
+}
+.BigRed span{
+  color: green;
+}
