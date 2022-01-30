@@ -35,3 +35,33 @@ img{vertical-align: top;
 }
 
 h1, h2, h3, h4, h5, h6{font-size: inherit; font-weight: 400;}
+
+.arial{font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;}
+
+.fontsize30{font-size: 30px;}
+
+.italic{font-style: italic;}
+
+.font700{font-weight: 700;}
+
+.colorread{color: red;}
+
+.textrite{text-align: justify}
+
+.decoration{
+  text-decoration: line-through;
+  text-shadow: 1px 1px 1px #000;
+}
+
+.uppercase{text-transform: capitalize;}
+
+.ident{text-indent: 100px;}
+
+.letterspacing{letter-spacing: 5px;}
+
+.wordspacing{word-spacing: 10px;}
+
+.whitespace{white-space: normal;}
+
+.linehaigh{line-height: 25px;}
+
